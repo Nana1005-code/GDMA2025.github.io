@@ -1,6 +1,6 @@
-# The 8th International Workshop on Graph Data Management and Analysis (GDMA 2024)
+# The 8th International Workshop on Graph Data Management and Analysis (GDMA 2025)
 
-This workshop will be held in conjunction with DASFAA 2024 on **July 2, 2024**.
+This workshop will be held in conjunction with DASFAA 2025 on **July 2, 2025**.
 
 Recently, there has been a lot of interest in the application of graphs in different domains. Graphs have been widely used for data modeling in various areas such as multimedia databases, protein networks, social networks, and the semantic web. With the continued emergence and increase of massive and complex structural graph data, a graph database that efficiently supports elementary data management mechanisms is crucially required to effectively understand and utilize any collection of graphs.
 
