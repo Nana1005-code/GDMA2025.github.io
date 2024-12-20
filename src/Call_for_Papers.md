@@ -28,9 +28,9 @@ Topics of interest include, but are not limited to:
 
 ### Important Dates
 
-- **Deadline for Paper Submission:** ~~February 29, 2024~~ April 15, 2024 (11:59 PM PST)
-- **Authors Notification:** ~~April 1, 2024~~ May 17, 2024
-- **Camera-ready Due:** ~~April 12, 2024~~ May 24, 2024 (11:59 PM PST)
-- **Workshop Dates:** July 2, 2024
+- **Deadline for Paper Submission:** ~~February 29, 2025~~ April 15, 2025 (11:59 PM PST)
+- **Authors Notification:** ~~April 1, 2025~~ May 17, 2025
+- **Camera-ready Due:** ~~April 12, 2025~~ May 24, 2025 (11:59 PM PST)
+- **Workshop Dates:** July 2, 2025
 
 
